@@ -1,4 +1,4 @@
 # Past Play
 
-Frontend - React.js by Rupak Boral
-Backend - Node.js by Priyanshu Chaurasia
+1. Frontend - React.js by Rupak Boral
+2. Backend - Node.js by Priyanshu Chaurasia
