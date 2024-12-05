@@ -1,4 +1,4 @@
-/*** PastPlay ***/
-/***
-  It's a OTT platform that reminds Gen-Z peoples of their childhood.
-***/
+# Past Play
+
+1. Frontend - React.js by Rupak Boral
+2. Backend - Node.js by Priyanshu Chaurasia
