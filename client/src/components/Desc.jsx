@@ -17,7 +17,7 @@ const Desc = () => {
         <section className="absolute bottom-8 left-[40%] items-center h-1/5 w-1/6 flex gap-6">
           <button
             className="bg-gray-600 px-4 py-2 rounded-full bg-opacity-80 text-2xl font-semibold"
-            onClick={() => setSeason(season + 1)}
+            onClick={() => setSeason(season - 1)}
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
